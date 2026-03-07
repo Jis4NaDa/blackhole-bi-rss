@@ -11,9 +11,18 @@ https://jis4nada.github.io/blackhole-bi-rss/feed.xml
 ## 数据内容
 
 每日更新包含：
-- **原始 JSON 数据** (机器可读，推荐自动化使用)
 - **RSS XML** (结构化数据，含自定义 bi: 命名空间)
 - HTML 报告 (人类可读，可选)
+
+## ⚠️ 数据隐私说明
+
+**原始 JSON 数据已改为本地存储，不公开**
+
+- `data/*.json` 文件已删除 (包含详细运营数据)
+- `reports/*.html` 文件已删除 (包含详细图表)
+- 仅 `feed.xml` 保留在 GitHub Pages (公开 RSS 订阅)
+
+**原因**: 保护游戏运营数据隐私，防止敏感数据泄露
 
 ### 数据字段
 
