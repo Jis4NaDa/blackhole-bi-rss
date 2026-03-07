@@ -5,15 +5,15 @@
     <link>https://jis4nada.github.io/blackhole-bi-rss</link>
     <description>黑洞游戏全球 6 区域核心运营指标日报</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 07 Mar 2026 11:15:51 UTC</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 12:33:21 UTC</lastBuildDate>
     <generator>OC 数据 Jean RSS Generator</generator>
     
     <item>
       <title>黑洞 BI 日报 2026-03-07</title>
       <link>https://jis4nada.github.io/blackhole-bi-rss/reports/20260307.html</link>
       <guid>blackhole-bi-20260307</guid>
-      <pubDate>Sat, 07 Mar 2026 11:15:51 UTC</pubDate>
-      <description><![CDATA[数据范围：2026-02-05 ~ 2026-03-06
+      <pubDate>Sat, 07 Mar 2026 12:33:21 UTC</pubDate>
+      <description><![CDATA[数据范围：undefined
 
 【核心指标汇总】
 区域        DAU    ARPU(USD)
@@ -33,7 +33,7 @@ ARPU 最高：韩国 ($2.28)
 
 详细报告：https://jis4nada.github.io/blackhole-bi-rss/reports/20260307.html]]></description>
       <bi:reportDate>2026-03-07</bi:reportDate>
-      <bi:dataRange>2026-02-05 ~ 2026-03-06</bi:dataRange>
+      <bi:dataRange>undefined</bi:dataRange>
       <bi:regions>
         <bi:region name="东南亚2" dau="112" arpu="0.12" currency="USD"/>
         <bi:region name="日本" dau="359" arpu="0" currency="USD"/>
