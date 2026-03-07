@@ -14,15 +14,28 @@ https://jis4nada.github.io/blackhole-bi-rss/feed.xml
 - **RSS XML** (结构化数据，含自定义 bi: 命名空间)
 - HTML 报告 (人类可读，可选)
 
-## ⚠️ 数据隐私说明
+## 🔐 数据加密说明
 
-**原始 JSON 数据已改为本地存储，不公开**
+**`data/*.sc` 文件使用 AES-256-GCM 加密**
 
-- `data/*.json` 文件已删除 (包含详细运营数据)
-- `reports/*.html` 文件已删除 (包含详细图表)
-- 仅 `feed.xml` 保留在 GitHub Pages (公开 RSS 订阅)
+- `data/*.sc` - 加密的 JSON 数据 (需要密钥解密)
+- `feed.xml` - RSS 订阅文件 (公开)
+- `reports/` - 已移除 (不公开)
 
-**原因**: 保护游戏运营数据隐私，防止敏感数据泄露
+### 解密方法
+
+**需要密钥** (联系数据管理员获取)
+
+```bash
+# 设置密钥
+export BI_ENCRYPT_KEY=你的 32 字节密钥 hex
+
+# 解密文件
+node decrypt.js 20260307.sc
+node decrypt.js 20260307.sc 20260307.json  # 保存到文件
+```
+
+**原因**: 保护游戏运营数据隐私，同时支持授权用户访问
 
 ### 数据字段
 

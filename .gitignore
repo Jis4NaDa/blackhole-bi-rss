@@ -1,7 +1,10 @@
-# 敏感数据 - 不公开
-data/
-reports/
-
 # 临时文件
 *.log
 .DS_Store
+
+# 保留 data 目录但忽略 json (只提交 .sc)
+data/*.json
+data/*.html
+
+# reports 不公开
+reports/
