@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-07T09:49:05.287Z",
+  "generatedAt": "2026-03-07T10:36:11.284Z",
   "range": {
     "start": "2026-02-05",
     "end": "2026-03-06"
@@ -1555,7 +1555,7 @@
       ],
       "note": null,
       "debug": {
-        "landing": "http://43.153.84.108:8084/bpaLogin",
+        "landing": "http://43.153.84.108:8084/",
         "title": "Mobile Goddess 北美"
       }
     }
