@@ -5,36 +5,36 @@
     <link>https://jis4nada.github.io/blackhole-bi-rss</link>
     <description>黑洞游戏全球 6 区域核心运营指标日报 (加密数据)</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 07 Mar 2026 14:18:57 UTC</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 09:56:13 UTC</lastBuildDate>
     <generator>OC 数据 Jean RSS Generator (加密版)</generator>
     
     <item>
-      <title>黑洞 BI 日报 2026-03-07</title>
+      <title>黑洞 BI 日报 2026-03-08</title>
       <link>https://jis4nada.github.io/blackhole-bi-rss</link>
-      <guid>blackhole-bi-20260307</guid>
-      <pubDate>Sat, 07 Mar 2026 14:18:57 UTC</pubDate>
-      <description><![CDATA[📊 黑洞 BI 日报 2026-03-07
+      <guid>blackhole-bi-20260308</guid>
+      <pubDate>Sun, 08 Mar 2026 09:56:13 UTC</pubDate>
+      <description><![CDATA[📊 黑洞 BI 日报 2026-03-08
 
-数据范围：2026-02-05 至 2026-03-06
+数据范围：2026-02-06 至 2026-03-07
 
 摘要:
 • 区域数：6
-• 总 DAU: 3087
+• 总 DAU: 3090
 • 最高区域：韩国
 
 ✅ 数据正常
 
-🔐 详细数据已加密 (data/20260307.sc)
+🔐 详细数据已加密 (data/20260308.sc)
 💬 数据简报：Telegram 群组]]></description>
-      <bi:reportDate>2026-03-07</bi:reportDate>
-      <bi:dataRange>2026-02-05~2026-03-06</bi:dataRange>
+      <bi:reportDate>2026-03-08</bi:reportDate>
+      <bi:dataRange>2026-02-06~2026-03-07</bi:dataRange>
       <bi:summary>
-        <bi:totalDau>3087</bi:totalDau>
+        <bi:totalDau>3090</bi:totalDau>
         <bi:regionCount>6</bi:regionCount>
         <bi:topRegion>韩国</bi:topRegion>
         <bi:hasAnomaly>false</bi:hasAnomaly>
       </bi:summary>
-      <bi:encryptedData>https://jis4nada.github.io/blackhole-bi-rss/data/20260307.sc</bi:encryptedData>
+      <bi:encryptedData>https://jis4nada.github.io/blackhole-bi-rss/data/20260308.sc</bi:encryptedData>
       <bi:decryptGuide>https://jis4nada.github.io/blackhole-bi-rss/ENCRYPTION.md</bi:decryptGuide>
     </item>
   </channel>
