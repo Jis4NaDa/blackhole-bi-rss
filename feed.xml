@@ -5,17 +5,17 @@
     <link>https://jis4nada.github.io/blackhole-bi-rss</link>
     <description>黑洞游戏全球 6 区域核心运营指标日报 (加密数据)</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 09 Mar 2026 02:19:03 UTC</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 18:03:42 UTC</lastBuildDate>
     <generator>OC 数据 Jean RSS Generator (加密版)</generator>
     
     <item>
       <title>黑洞 BI 日报 2026-03-09</title>
       <link>https://jis4nada.github.io/blackhole-bi-rss</link>
       <guid>blackhole-bi-20260309</guid>
-      <pubDate>Mon, 09 Mar 2026 02:19:03 UTC</pubDate>
+      <pubDate>Mon, 09 Mar 2026 18:03:42 UTC</pubDate>
       <description><![CDATA[📊 黑洞 BI 日报 2026-03-09
 
-数据范围：2026-02-07 至 2026-03-08
+数据范围：2026-02-08 至 2026-03-09
 
 摘要:
 • 区域数：6
@@ -27,7 +27,7 @@
 🔐 详细数据已加密 (data/20260309.sc)
 💬 数据简报：Telegram 群组]]></description>
       <bi:reportDate>2026-03-09</bi:reportDate>
-      <bi:dataRange>2026-02-07~2026-03-08</bi:dataRange>
+      <bi:dataRange>2026-02-08~2026-03-09</bi:dataRange>
       <bi:summary>
         <bi:totalDau>0</bi:totalDau>
         <bi:regionCount>6</bi:regionCount>
