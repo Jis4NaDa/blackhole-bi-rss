@@ -5,15 +5,15 @@
     <link>https://jis4nada.github.io/blackhole-bi-rss</link>
     <description>黑洞游戏全球 6 区域核心运营指标日报 (加密数据)</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 09 Mar 2026 18:03:42 UTC</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 10:40:58 UTC</lastBuildDate>
     <generator>OC 数据 Jean RSS Generator (加密版)</generator>
     
     <item>
-      <title>黑洞 BI 日报 2026-03-09</title>
+      <title>黑洞 BI 日报 2026-03-10</title>
       <link>https://jis4nada.github.io/blackhole-bi-rss</link>
-      <guid>blackhole-bi-20260309</guid>
-      <pubDate>Mon, 09 Mar 2026 18:03:42 UTC</pubDate>
-      <description><![CDATA[📊 黑洞 BI 日报 2026-03-09
+      <guid>blackhole-bi-20260310</guid>
+      <pubDate>Tue, 10 Mar 2026 10:40:58 UTC</pubDate>
+      <description><![CDATA[📊 黑洞 BI 日报 2026-03-10
 
 数据范围：2026-02-08 至 2026-03-09
 
@@ -24,9 +24,9 @@
 
 ⚠️ 存在数据异常，请查看 Telegram 通知
 
-🔐 详细数据已加密 (data/20260309.sc)
+🔐 详细数据已加密 (data/20260310.sc)
 💬 数据简报：Telegram 群组]]></description>
-      <bi:reportDate>2026-03-09</bi:reportDate>
+      <bi:reportDate>2026-03-10</bi:reportDate>
       <bi:dataRange>2026-02-08~2026-03-09</bi:dataRange>
       <bi:summary>
         <bi:totalDau>0</bi:totalDau>
@@ -34,7 +34,7 @@
         <bi:topRegion>东南亚2</bi:topRegion>
         <bi:hasAnomaly>true</bi:hasAnomaly>
       </bi:summary>
-      <bi:encryptedData>https://jis4nada.github.io/blackhole-bi-rss/data/20260309.sc</bi:encryptedData>
+      <bi:encryptedData>https://jis4nada.github.io/blackhole-bi-rss/data/20260310.sc</bi:encryptedData>
       <bi:decryptGuide>https://jis4nada.github.io/blackhole-bi-rss/ENCRYPTION.md</bi:decryptGuide>
     </item>
   </channel>
